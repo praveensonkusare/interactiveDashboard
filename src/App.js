@@ -23,7 +23,7 @@ const SearchSection = styled("div")({
 });
 
 const SearchInput = styled(TextField)({
-  marginRight: "10px",
+
 });
 
 const SortSelect = styled(FormControl)({
